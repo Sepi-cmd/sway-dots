@@ -1,0 +1,46 @@
+* {
+    font-family: "Hack", monospace;
+}
+
+window {
+    background-color: #1F1F28; /* Kanagawa background */
+}
+
+input {
+    margin: 5px;
+    border-radius: 8px;
+    border: none;
+    background-color: #1F1F28; /* Kanagawa background */
+    color: #DCD7BA; /* Kanagawa light text */
+}
+
+#inner-box {
+    background-color: #2A2A37; /* Kanagawa inner box background */
+}
+
+#outer-box {
+    margin: 2px;
+    padding: 10px;
+    background-color: #2A2A37; /* Kanagawa outer box background */
+}
+
+#scroll {
+    margin: 5px;
+}
+
+#text {
+    padding: 4px;
+    color: #DCD7BA; /* Kanagawa light text */
+}
+
+#entry:nth-child(even) {
+    background-color: #363646; /* Alternate entry background (Kanagawa Light) */
+}
+
+#entry:selected {
+    background-color: #3F3F4C; /* Selected entry background (Slightly lighter shade) */
+}
+
+#text:selected {
+    background: transparent; /* Keep text transparent when selected */
+}
