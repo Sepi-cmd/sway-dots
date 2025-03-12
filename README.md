@@ -1,4 +1,4 @@
-// hey so this is my 1st time on github so i will make the repo better later
+// this is my 1st time on github so i will make the repo better later
 
 // base sway took from mohammad https://github.com/MubinMuhammad/MinimalSwayFX
 
