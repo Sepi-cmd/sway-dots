@@ -67,3 +67,7 @@ bindsym $mod+f fullscreen
 bindsym $mod+space focus mode_toggle
 bindsym $mod+a focus parent
 bindsym $mod+r mode "resize"
+
+
+p.s
+those dotfiles are only for me, i dont claim any of those files as my own
