@@ -1,4 +1,5 @@
-// this is my 1st time on github so i will make the repo better later
+UNMAINTAINED 
+.zip file because im too lazy to do something with git
 
 // base sway took from mohammad https://github.com/MubinMuhammad/MinimalSwayFX
 
